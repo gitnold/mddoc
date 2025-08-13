@@ -7,10 +7,11 @@
 ```
 $ git clone https://github.com/gitnold/mddoc.git
 ```
-- Change to the directory and make the build script executable.
+- Change to the directory and make the build script executable and run it to build the source files.
 ```
 cd mddoc
 chmod +x build.sh
+./build.sh
 ```
 - Run `mddoc`.
 ```
